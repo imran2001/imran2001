@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @imran2001
+
+
+<h1>👋 Hi, I’m Imran Nazir</h1>
 - 👀 I’m interested in Playing Chess and Watching Anime Webs Series
 - 🌱 I’m currently learning Reactjs, Mongo DB, DSA
 - 💞️ I’m looking to collaborate on Cloud Computing
