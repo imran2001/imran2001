@@ -1,6 +1,6 @@
 
 
-                                    <h1><align="Center">👋 Hi, I’m Imran Nazir</align></h1>
+  -<h1><align="Center">👋 Hi, I’m Imran Nazir</align></h1>
 
 - 👀 I’m interested in Playing Chess and Watching Anime Webs Series
 
